@@ -1,0 +1,122 @@
+Ticket Number 	Ticket Type 	Ticket Subtype 	Status 	Synopsis 	Activity 	Trigger 	Impact 	Description 	Severity 	Priority 	Target Release 	Project 	Environment 	Current Lifecycle Substep 	Test Type 	Test Case 	Test Pass 	Application 	Impacted Area 	Impacted Piece 	Create Time 	Submitter 	Submitter Name 	Submitter Workgroup 	Submitter Location 	Test Lead ID 	Test Lead Name 	Test Owner ID 	Test Owner Name 	Resolver Workgroup 	Resolver ID 	Resolver Name 	approved_id 	approved_time 	assigned_id 	assigned_time 	Log 
+309115	Defect	Testing Defect	defect_concluded	Mapping EDP with Clarity Project Name	Operational Testing	Startup/Restart	New Requirements	"Instead of the EDP SR in the beginning of the clarity project name, the users have decided to put the SR# at the end of the project name."	3	High	ProdSupt	M9E10 - 2009 Morton Maint	Production	Develop Code (Software)	New Functionality	mapping of edp to clarity project name	1	0LS - Administration Automation for Software Development Tools	Database	Stored SQL	17/02/2009 15:55	csm6947	"Puligandla, Bhargava"	SFWAPP-SYNERGY	United States					SFWAPP-SYNERGY	csm6947	"Puligandla, Bhargava"	csm6947	17/02/2009 15:55	csm6947	17/02/2009 15:56	Submitted to defect_approved by csm6947 on 2009/02/17 15:55:31
+																																					
+								e.g.																													Transitioned to defect_assigned by csm6947 on 2009/02/17 15:56:19
+								Sprint.com 2.0 Community & Support-E4436																													<comments not supplied>
+								Sprint.Com 2.0 Hardware and Infrastructure-E4340																													----------
+																																					(_CREATE_TASK): true
+								The code needs to change so that it can strip out the SR# (E4340) from the above string and compare it with an existing EDP SR to do the mapping.																													
+																																					Relationship change made by csm6947 on 2009/06/05 12:16:34
+																																					Created 'associated_ftdc' relationship from cr '309115' to cr '323310'
+																																					
+																																					Transitioned to defect_ready4baseline by csm6947 on 2009/06/05 12:17:57
+																																					<comments not supplied>
+																																					----------
+																																					containment_step: --> Integrated Testing
+																																					containment_phase: --> Develop
+																																					resolution: --> created a stored sql to do the mapping between EDP and Clarity Project name
+																																					containment_substep: --> Perform User Acceptance Test (UAT)
+																																					containment_explanation: --> clarity and edp project name mapping test
+																																					
+																																					Transitioned to defect_accepted4baseline by csm6947 on 2009/06/05 12:18:19
+																																					<comments not supplied>
+																																					
+																																					Modifications made by ccm_auto on 2009/06/05 12:27:09
+																																					true_baselined_id: --> csm6947
+																																					
+																																					Transitioned to defect_baselined by ccm_auto on 2009/06/05 12:27:10
+																																					Automatically transitioned to Baselined when baseline 0LS_ProdSupt_AFB_20090605~1:baseline:1 was created by csm6947
+																																					Baseline description:
+																																					baseline for the sox verification project
+																																					
+																																					
+																																					Modifications made by ccm_auto on 2009/06/05 12:27:11
+																																					baselined_id: ccm_auto --> csm6947
+																																					
+																																					Transitioned to defect_in_test by csm6947 on 2009/06/05 12:33:58
+																																					<comments not supplied>
+																																					----------
+																																					migrate_ticket: --> n/a
+																																					
+																																					Transitioned to defect_resolved by csm6947 on 2009/06/05 12:38:04
+																																					<comments not supplied>
+																																					----------
+																																					resolution: created a stored sql to do the mapping between EDP and Clarity Project name --> EDP to clarity mapping has been completed
+																																					containment_explanation: clarity and edp project name mapping test --> edp to clarity mapping for project name completed
+																																					
+																																					Transitioned to defect_concluded by csm6947 on 2009/06/05 12:41:21
+																																					these tickets are already in production and working
+309160	Defect	Testing Defect	defect_assigned	Sorting of the releases properly	Operational Testing	Software Configuration	New Requirements	With the new format of the release naming	3	Low	ProdSupt	M9E10 - 2009 Morton Maint	Production	Perform BreakFix Test	New Functionality		1	0LS - Administration Automation for Software Development Tools	Web Site	JAVA	17/02/2009 17:26	csm6947	"Puligandla, Bhargava"	SFWAPP-SYNERGY	United States					SFWAPP-SYNERGY	csm6947	"Puligandla, Bhargava"	csm6947	17/02/2009 17:26	csm6947	17/02/2009 17:27	Submitted to defect_approved by csm6947 on 2009/02/17 17:26:47
+								"e.g. SAP09.4.0.0, the releases need to be sorted in an alphabetical manner and then in an increasing numeric order after the initial dot."																													
+																																					Transitioned to defect_assigned by csm6947 on 2009/02/17 17:27:43
+																																					<comments not supplied>
+																																					----------
+																																					est_effort: --> 2
+																																					(_CREATE_TASK): true
+309163	Defect	Testing Defect	defect_concluded	Proper logging for the Application Extract from CODI	Operational Testing	Software Configuration	Documentation	"When the code was migrated to retrieve the Application Information from EDP to CODI (CodiExtract.java), there was some logging information that was lost."	3	Medium	ProdSupt	M9E10 - 2009 Morton Maint	Production	Develop Code (Software)	Regression Test		1	0LS - Administration Automation for Software Development Tools	Database	Stored SQL	17/02/2009 17:35	csm6947	"Puligandla, Bhargava"	SFWAPP-SYNERGY	United States					SFWAPP-SYNERGY	csm6947	"Puligandla, Bhargava"	csm6947	17/02/2009 17:35	csm6947	17/02/2009 17:35	Submitted to defect_approved by csm6947 on 2009/02/17 17:35:09
+								Put more details in the log files about the various applications that are being worked on and the other pertinent information that was available in the previous code(PortalExtract.java)																													
+																																					Transitioned to defect_assigned by csm6947 on 2009/02/17 17:35:41
+								Also create a new stored sql getApplicationInfo.sql so that the sql statement to retrieve Application Information from CODI is externalized and is not hard-coded into the java code.																													<comments not supplied>
+																																					----------
+																																					(_CREATE_TASK): true
+																																					
+																																					Relationship change made by csm6947 on 2009/02/20 16:39:15
+																																					Created 'associated_ftdc' relationship from cr '309163' to cr '310107'
+																																					
+																																					Transitioned to defect_ready4baseline by csm6947 on 2009/02/20 16:42:06
+																																					<comments not supplied>
+																																					----------
+																																					containment_step: --> Production Warranty
+																																					containment_phase: --> Deploy
+																																					resolution: (text value)
+																																					
+																																					-->> changed to -->>
+																																					The output status was also copied from the PortalExtract to the CodiExtract.
+																																					
+																																					Also retrieval of application information from CODI was externalized into a stored sql instead of hardcoding the sql into the java code.
+																																					
+																																					the properties file were also modified to add an email address.
+																																					act_effort: --> 6
+																																					containment_substep: --> Transition to Production Support
+																																					containment_explanation: --> application information was not logging
+																																					
+																																					Transitioned to defect_accepted4baseline by csm6947 on 2009/06/05 12:20:59
+																																					<comments not supplied>
+																																					
+																																					Modifications made by ccm_auto on 2009/06/05 12:27:11
+																																					true_baselined_id: --> csm6947
+																																					
+																																					Transitioned to defect_baselined by ccm_auto on 2009/06/05 12:27:12
+																																					Automatically transitioned to Baselined when baseline 0LS_ProdSupt_AFB_20090605~1:baseline:1 was created by csm6947
+																																					Baseline description:
+																																					baseline for the sox verification project
+																																					
+																																					
+																																					Modifications made by ccm_auto on 2009/06/05 12:27:13
+																																					baselined_id: ccm_auto --> csm6947
+																																					
+																																					Transitioned to defect_in_test by csm6947 on 2009/06/05 12:34:00
+																																					<comments not supplied>
+																																					----------
+																																					migrate_ticket: --> n/a
+																																					
+																																					Transitioned to defect_resolved by csm6947 on 2009/06/05 12:38:07
+																																					<comments not supplied>
+																																					----------
+																																					containment_phase: Deploy --> Develop
+																																					resolution: (text value)
+																																					The output status was also copied from the PortalExtract to the CodiExtract.
+																																					
+																																					Also retrieval of application information from CODI was externalized into a stored sql instead of hardcoding the sql into the java code.
+																																					
+																																					the properties file were also modified to add an email address.
+																																					-->> changed to -->>
+																																					EDP to clarity mapping has been completed
+																																					containment_step: Production Warranty --> Integrated Testing
+																																					containment_explanation: application information was not logging --> edp to clarity mapping for project name completed
+																																					impacted_area: Web Site --> Database
+																																					impacted_piece: JAVA --> Stored SQL
+																																					containment_substep: Transition to Production Support --> Perform User Acceptance Test (UAT)
+																																					
+																																					Transitioned to defect_concluded by csm6947 on 2009/06/05 12:41:24
+																																					these tickets are already in production and working

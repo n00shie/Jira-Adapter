@@ -1,0 +1,16 @@
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\nunit.framework.dll
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\nunit.framework.xml
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\nunit.framework.dll
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\nunit.framework.xml
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\SprintJiraAdapter.exe.config
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\SprintJiraAdapter.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\SprintJiraAdapter.pdb
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\obj\x86\Debug\SprintJiraAdapter.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\obj\x86\Debug\SprintJiraAdapter.pdb

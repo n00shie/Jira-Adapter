@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SprintJiraAdapter", "SprintJiraAdapter\SprintJiraAdapter.csproj", "{039F90CA-9EB8-40E4-851A-BBD4F98F2001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039F90CA-9EB8-40E4-851A-BBD4F98F2001}.Debug|x86.ActiveCfg = Debug|x86
+		{039F90CA-9EB8-40E4-851A-BBD4F98F2001}.Debug|x86.Build.0 = Debug|x86
+		{039F90CA-9EB8-40E4-851A-BBD4F98F2001}.Release|x86.ActiveCfg = Release|x86
+		{039F90CA-9EB8-40E4-851A-BBD4F98F2001}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\bin\Debug\SprintJiraAdapter.exe.config
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\obj\x86\Debug\SprintJiraAdapter.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\SprintJiraAdapter\obj\x86\Debug\SprintJiraAdapter.pdb

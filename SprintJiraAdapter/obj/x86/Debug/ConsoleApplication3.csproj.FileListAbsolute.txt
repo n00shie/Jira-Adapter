@@ -1,0 +1,11 @@
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\nunit.framework.dll
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\nunit.framework.xml
+c:\users\anushervon.saidmurad\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\Anushervon.Saidmurad\Documents\iQcode\IQ.ENT\Enterprise\Utilities\SprintJiraAdapter\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
